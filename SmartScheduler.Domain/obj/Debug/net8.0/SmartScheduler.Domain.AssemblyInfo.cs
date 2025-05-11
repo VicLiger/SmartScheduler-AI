@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SmartScheduler.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dba6827ca5dd5a967a02ecb73ceadbca87ca048b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d5d0264ebe7591c1f4dad5fab450bb6ec7825e04")]
 [assembly: System.Reflection.AssemblyProductAttribute("SmartScheduler.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SmartScheduler.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
